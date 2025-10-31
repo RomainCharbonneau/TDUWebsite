@@ -20,7 +20,7 @@ export default function SponsorsComponent({ showTitle = true }: SponsorsComponen
     },
     {
       name: "Ford",
-      link: "https://www.ford.com.au//",
+      link: "https://www.ford.com.au/",
       logo: "/images/sponsor_logos/sponsors_svg/Ford.svg",
     },
     {
@@ -38,6 +38,18 @@ export default function SponsorsComponent({ showTitle = true }: SponsorsComponen
       link: "https://www.disney.com.au/",
       logo: "/images/sponsor_logos/sponsors_svg/Disney.svg",
     },
+    {
+       name: "Coca-cola",
+       link: "https://www.cocacolaep.com/",
+       logo: "/images/sponsor_logos/sponsors_svg/Coca-cola.svg",
+    },
+
+    // {
+    //   name: "WestCoast Products",
+    //   link: "https://wcproducts.com/",
+    //   logo: "/images/sponsor_logos/sponsors_svg/WCP.avif",
+    // },
+    
     // {
     //   name: "Amazon",
     //   link: "https://www.amazon.com.au/",
